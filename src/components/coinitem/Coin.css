@@ -1,0 +1,90 @@
+
+/* Kotak tiap Coins  */
+.cryptoCoin{
+    overflow: hidden;
+    text-align: center;
+    border: solid;
+    border-radius: 1rem;
+    position: relative;
+    width: 320px;
+    margin: 2rem;
+    
+}
+
+/* Logo  */
+.coinLogo {
+    width: 8rem;
+    margin-top: 1.2rem;
+    height: 40px;
+    width: 40px;
+    clip-path: circle(60px at center);
+}
+
+/* ====================  */
+.coinNameWrap{
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.coinName {
+    font-family: 'Bungee Shade', cursive;
+    font-size: 30px;
+}
+
+.coinSymbol{
+    font-family:sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+/* =================  */
+/* Part price  */
+.coinPrice{
+    font-size: 40px;
+    font-family: monospace;
+}
+
+.coinMarketcap{
+    font-family: monospace;
+    font-size: 15px;
+}
+
+.coinVolume{
+    font-family: monospace;
+    font-size: 15px;
+}
+
+
+/* Signal Green and Red  */
+.priceContainerUP {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    border: none;
+    font-size: 1rem;
+    color: azure;
+    padding: 12px;
+    background-color: #caffbf;
+}
+
+.priceContainerDOWN {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    border: none;
+    font-size: 1rem;
+    color: azure;
+    padding: 12px;
+    background-color: #ffadad;
+}
+
+.priceChange{
+    background-color: transparent;
+    padding-left: 1px;
+    font-size: 20px;
+    color: black;
+}
