@@ -1,4 +1,4 @@
-# Link: click here <a href="ekripto.xyz">Ekripto</a>
+# Link: click here <a href="https://ekripto.xyz/">Ekripto</a>
 
 # Getting Started with Create React App
 
