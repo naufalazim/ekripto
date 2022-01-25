@@ -7,4 +7,6 @@
 
 <ul>  
 <li>React.js</li>
+<li>Integrated API from coingecko</li>  
 </ul>
+
