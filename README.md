@@ -9,3 +9,4 @@
 <li>Integrated API from coingecko</li>  
 </ul>
 
+![alt text](https://github.com/naufalazim/ekripto/blob/main/Image/crypto-price.gif)
