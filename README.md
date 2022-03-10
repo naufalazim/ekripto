@@ -1,14 +1,16 @@
 # Price Tracker Crypto: ekripto 🚀
 
-### Link: click here <a href="https://ekripto.xyz/">Ekripto</a>
+### `Click Here`
 
-## Technology use to develop project?
+<li> <a href="https://ekripto.xyz/">Ekripto</a> </li>
 
-<ul>  
+### Technology I use to develop ekripto project?
+
 <li>React.js</li>
 <li>Integrated API from coingecko</li>  
-</ul>
 
 API link: https://www.coingecko.com/en/api/documentation
 
+
+## `Picture`
 ![alt text](https://github.com/naufalazim/ekripto/blob/main/Image/crypto-price.gif)
