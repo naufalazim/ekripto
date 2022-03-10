@@ -8,8 +8,7 @@
 
 <li>React.js</li>
 <li>Integrated API from coingecko</li>  
-
-API link: https://www.coingecko.com/en/api/documentation
+<li>API link: https://www.coingecko.com/en/api/documentation</li>
 
 
 ## `Picture`
